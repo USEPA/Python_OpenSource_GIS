@@ -1,4 +1,7 @@
 geopandas
+folium
+rasterio
+rasterstats
+rioxarray
 matplotlib
 pyproj
-folium

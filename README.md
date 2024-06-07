@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jbousquin/Python_OpenSource_GIS/HEAD)
+
 # Python_OpenSource_GIS
 Code notebooks used for presentation to python community of practice
 
