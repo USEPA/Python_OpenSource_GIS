@@ -5,3 +5,7 @@ rasterstats
 rioxarray
 matplotlib
 pyproj
+notebook
+jupyterlab
+lxml
+pygris
