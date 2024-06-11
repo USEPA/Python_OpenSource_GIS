@@ -9,3 +9,4 @@ notebook
 jupyterlab
 lxml
 pygris
+mapclassify
