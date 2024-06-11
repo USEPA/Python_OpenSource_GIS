@@ -10,3 +10,5 @@ jupyterlab
 lxml
 pygris
 mapclassify
+dask
+leafmap
